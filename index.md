@@ -7,3 +7,5 @@ The developer may update this Privacy Policy from time to time. Thus, you are ad
 
 ### Support or Contact
 If you have any questions or suggestions about this Privacy Policy, kindly send an email to mehmetbayrambusiness@hotmail.com.
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
